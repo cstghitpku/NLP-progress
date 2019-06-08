@@ -37,6 +37,12 @@ The main evaluation measure is F1-score.
 |supWSD | 71.3 | 68.8 | 60.2 | 65.8 | 70.0 | [[6]](https://aclanthology.info/pdf/P/P10/P10-4014.pdf) [[11]](http://aclweb.org/anthology/D17-2018) |
 |supWSD<sub>emb</sub> | 72.7 | 70.6 | 63.1 | 66.8 | 71.8 | [[7]](http://www.aclweb.org/anthology/P16-1085) [[11]](http://aclweb.org/anthology/D17-2018) |
 
+### Tmp:
+| Model | 1 | 2 | 3 |
+| ------- | :-----|:-----|:-----|
+|M1 | 1 | 2 | 3|
+|M2 | 4 | 5 |6 |
+
 
 ### Knowledge-based:
 
